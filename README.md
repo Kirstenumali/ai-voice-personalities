@@ -21,19 +21,19 @@ Fable has a modern, relaxed Gen Z speaking style. His voice feels casual, energe
 
 ### Shimer
 
-**Style:** Expressive and vibrant voice
+**Style:** Expressive, gay type and vibrant voice
 **Description:**
 Shimer has a lively and expressive tone. The voice feels playful, dramatic, and colorful, making it ideal for entertaining interactions and engaging conversations.
 
 ### Sage
 
-**Style:** Theater-style female voice
+**Style:** Theater-style female voice, an theater woman
 **Description:**
 Sage speaks like a stage performer. Her voice is expressive, dramatic, and articulate, giving responses a theatrical and storytelling quality.
 
 ### Coral
 
-**Style:** Clear and articulate speaker
+**Style:** Clear, is good when speaking about the sentence, and articulate speaker
 **Description:**
 Coral focuses on delivering sentences clearly and smoothly. This voice works well for narration, explanations, and any situation where clarity is important.
 
